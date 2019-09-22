@@ -1,5 +1,7 @@
 # Weather-SPA-js
 
+Live Example: https://spaweather.customwebcms.com
+
 ## Project setup
 ```
 npm install
