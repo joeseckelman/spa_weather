@@ -284,7 +284,6 @@ export default({
       }
     },
     geoLocateUser: function() {
-      console.log('this check',this);
       //API to use lat + long to get city, country:
       //https://api.opencagedata.com/geocode/v1/json?key=6cc825876fd84f9494dd16177e88b73e&q=LAT+LONG&pretty=1&no_annotations=1
       //Get Initial Permission and LAT + LONG of user:
